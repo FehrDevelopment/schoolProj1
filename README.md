@@ -1,9 +1,4 @@
-HEAD
-"[Official Git Documentation](https://git-scm.com/doc)" 
-"# A Whale of a Greeting" 
-"# A a sample website made as part of [*learn enough git to be dangerous"  
 
-=======
 # Sample Website
 
 This is a sample website made as part of [*Learn Enough Git to Be 
